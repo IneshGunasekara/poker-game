@@ -1,0 +1,1 @@
+This project was developed when I was at university. the project was built using pure java and the swing for the front end with the idea of OOP concepts to illustrate how the oop works and etc.the game runs on a loop and logic implemented based on the mathematical operations and random number generations to provide full random steps at each stage.
